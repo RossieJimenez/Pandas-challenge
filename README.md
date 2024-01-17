@@ -1,5 +1,4 @@
 # Pandas-challenge
-To create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 Summary:
 The analysis focuses on school and student data within a district. Using the pandas library in Python, various calculations and summary statistics were performed to gain insights into the district's educational performance. The key metrics include the total number of schools and students, budget information, average scores in math and reading, and the overall passing rates.
